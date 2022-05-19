@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fpetrovic
-- 👀 I’m interested in back end software development, automation, learning, photography, electro music, hiking, basketball, Brazilian JiuJitsu
+- 👀 I’m interested in back end software development, automation, learning, photography, electro music, hiking, football, basketball, Brazilian JiuJitsu
 - 🌱 I’m currently improving software architecture skillset. Right now, the main focus is on Terraform and Elastic Search.
 - 💞️ I’m looking to collaborate on projects that are meaningful to me and the world
 - 📫 You can reach me on [Linkedin ](https://www.linkedin.com/in/filip-petrovic-software-engineer/)
